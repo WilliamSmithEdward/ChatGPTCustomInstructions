@@ -9,3 +9,5 @@
 5.) No in-function comments. Prefer header comment blocks on all public functions / subs / methods.
 
 6.) Prefer self contained functions / subs / methods when reasonable, as opposed to helper functions. Helper functions are acceptable if truly necessary.
+
+7.) Infer and mirror structural conventions from the provided code input when generating output. This includes formatting density (CR/LF usage), brace style (Allman vs K&R/Egyptian), indentation depth, spacing patterns, naming conventions, block separation, and overall visual rhythm.
